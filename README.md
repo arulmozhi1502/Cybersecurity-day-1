@@ -1,4 +1,4 @@
-# day-1
+# Cybersecurity day-1
 This project demonstrate how to scan a local network and to discover open ports on acive devices in your local network to understand network exposure and potential security risks.  Tools: Nmap (free), Wireshark (optional)
 
 Steps:
